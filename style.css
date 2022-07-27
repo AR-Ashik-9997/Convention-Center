@@ -22,4 +22,12 @@
     object-fit: cover;
     object-position: center;
 }
+.text-justify{
+    text-align: justify;
+}
+.footer-text{
+    padding-top: 5%;
+}
+
+
 
